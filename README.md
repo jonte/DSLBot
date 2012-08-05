@@ -1,7 +1,7 @@
 DSLBOT
 ======
 
-This is a HaskellEDSL around the ircbot package on hackage (http://hackage.haskell.org/package/ircbot-0.5.1). The aim of DSLBot is to provide a very simple to use Domain Specific Langiage for creating IRC bots.
+This is a Haskell EDSL around the ircbot package on hackage (http://hackage.haskell.org/package/ircbot-0.5.1). The aim of DSLBot is to provide a very simple to use Domain Specific Langiage for creating IRC bots.
 
 How can i try it?
 -----------------
